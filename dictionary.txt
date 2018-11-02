@@ -1,0 +1,9 @@
+1 d1 d1
+2 d2 d2
+3 d3 d3
+4 d4
+5 d5
+6 d6
+7 d7
+pikachu pokemon
+bulbasaur a kind of pokemon
